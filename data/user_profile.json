@@ -1,0 +1,1225 @@
+{
+  "fetchedAt": "2026-07-04T09:08:40.069Z",
+  "topArtists": [
+    {
+      "id": "3fMbdgg4jU18AjLCKBhRSm",
+      "name": "Michael Jackson",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb997cc9a4aec335d46c9481fd"
+    },
+    {
+      "id": "465OXuCU8YZNmVG1leLwQ9",
+      "name": "Shashwat Sachdev",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb54f120e72388f1c5c3aa3edd"
+    },
+    {
+      "id": "4zCH9qm4R2DADamUHMCa6O",
+      "name": "Anirudh Ravichander",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb0f0be2054fe9594026a6b843"
+    },
+    {
+      "id": "6LEG9Ld1aLImEFEVHdWNSB",
+      "name": "AP Dhillon",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebfb505b37709fa86cfd8f55b3"
+    },
+    {
+      "id": "5jJrJU7VVmxQQLcLAmmxXc",
+      "name": "Sai Abhyankkar",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb0a27dbc5eb270fd2e78b9cbb"
+    },
+    {
+      "id": "1mYsTxnqsietFxj1OgoGbG",
+      "name": "A.R. Rahman",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebb19af0ea736c6228d6eb539c"
+    },
+    {
+      "id": "5FOhBMFQo0pDhvISlFmxdi",
+      "name": "Radhan",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebbc946b05e90de6e0f7d1aa1a"
+    },
+    {
+      "id": "53XhwfbYqKCa1cC15pYq2q",
+      "name": "Imagine Dragons",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebab47d8dae2b24f5afe7f9d38"
+    },
+    {
+      "id": "6eUKZXaKkcviH0Ku9w2n3V",
+      "name": "Ed Sheeran",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebd55c95ad400aed87da52daec"
+    },
+    {
+      "id": "7qjJw7ZM2ekDSahLXPjIlN",
+      "name": "Sid Sriram",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebef6a8800763bf428e85940a6"
+    },
+    {
+      "id": "2q3GG88dVwuQPF4FmySr9I",
+      "name": "The Score",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebc1fded2a185c54df399fe63a"
+    },
+    {
+      "id": "5sSzCxHtgL82pYDvx2QyEU",
+      "name": "Devi Sri Prasad",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebaa5350248841ba12e12467af"
+    },
+    {
+      "id": "4Ai0pGz6GhQavjzaRhPTvz",
+      "name": "DIVINE",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebe4bae1cd1803402a906b61ba"
+    },
+    {
+      "id": "3Q80PCEUBCiRhLSWdQApNt",
+      "name": "Jakes Bejoy",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb5a2cc853c42d0043ac5aca82"
+    },
+    {
+      "id": "5CTu6FKerxlvZrsLb6BYaU",
+      "name": "Harshavardhan Rameshwar",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb8f91e70ba403914699cfad6e"
+    },
+    {
+      "id": "2FgHPfRprDaylrSRVf1UlN",
+      "name": "Thaman S",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb1edc6d40afbea5426d0cfe0f"
+    },
+    {
+      "id": "7uIbLdzzSEqnX0Pkrb56cR",
+      "name": "Yo Yo Honey Singh",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb0d980c444c93fded5715e1b4"
+    }
+  ],
+  "topTracks": [
+    {
+      "id": "1DIXPcTDzTj8ZMHt3PDt8p",
+      "name": "Gangsta's Paradise",
+      "artists": [
+        "Coolio",
+        "L.V."
+      ],
+      "album": "Gangsta's Paradise",
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737438996f6fe67c59d75d4e43"
+    },
+    {
+      "id": "1EAezmvWUC556DIb6ky8PD",
+      "name": "Emitemitemito",
+      "artists": [
+        "Radhan",
+        "Alphonse"
+      ],
+      "album": "Arjun Reddy",
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b273acf25692c90544b6d218f642"
+    },
+    {
+      "id": "4yur1GSBfuS1VADyUYocqd",
+      "name": "Pavazha Malli - From \"Think Indie\"",
+      "artists": [
+        "Sai Abhyankkar",
+        "Shruti Haasan",
+        "Vivek"
+      ],
+      "album": "Pavazha Malli (From \"Think Indie\")",
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f5f2a6705dfe3c2fe11028c8"
+    },
+    {
+      "id": "7J1uxwnxfQLu4APicE5Rnj",
+      "name": "Billie Jean",
+      "artists": [
+        "Michael Jackson"
+      ],
+      "album": "Thriller",
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b27332a7d87248d1b75463483df5"
+    },
+    {
+      "id": "3wuCCNCnBhJlwkIJTBZFiv",
+      "name": "They Don't Care About Us",
+      "artists": [
+        "Michael Jackson"
+      ],
+      "album": "HIStory - PAST, PRESENT AND FUTURE - BOOK I",
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b4a878f008a0eda552446701"
+    },
+    {
+      "id": "5NK3IhIeIXQmOKK5EiSRra",
+      "name": "Run Down The City - Monica",
+      "artists": [
+        "Shashwat Sachdev",
+        "Reble",
+        "Asha Bhosle",
+        "R. D. Burman",
+        "Majrooh Sultanpuri"
+      ],
+      "album": "Dhurandhar",
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737838ccbef3fb712228e23fc5"
+    },
+    {
+      "id": "3BovdzfaX4jb5KFQwoPfAw",
+      "name": "Beat It",
+      "artists": [
+        "Michael Jackson"
+      ],
+      "album": "Thriller",
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b27332a7d87248d1b75463483df5"
+    },
+    {
+      "id": "4zIJHigfguvdm3O8c9KPeo",
+      "name": "Who I Am",
+      "artists": [
+        "The Score"
+      ],
+      "album": "ATLAS",
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c469e75608b59994c1c422be"
+    },
+    {
+      "id": "5xKr4HfdnYLMDmAJZkOuBc",
+      "name": "Dhurandhar - Title Track",
+      "artists": [
+        "Shashwat Sachdev",
+        "Hanumankind",
+        "Jasmine Sandlas",
+        "Sudhir Yaduvanshi",
+        "Charanjit Ahuja",
+        "Muhammad Sadiq",
+        "Ranjit Kaur",
+        "Babu Singh Maan"
+      ],
+      "album": "Dhurandhar",
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737838ccbef3fb712228e23fc5"
+    },
+    {
+      "id": "7hADNKBDHS8MblpUzLebLf",
+      "name": "Hoyna Hoyna (From \"Gang Leader\")",
+      "artists": [
+        "Anirudh Ravichander",
+        "Inno Genga",
+        "Anantha Sriram"
+      ],
+      "album": "Hoyna Hoyna (From \"Gang Leader\")",
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f90381db255af6e077f15d4d"
+    },
+    {
+      "id": "0snQrp1VaY5Pj1YIHRJpRJ",
+      "name": "Chaand Baaliyan",
+      "artists": [
+        "Aditya A"
+      ],
+      "album": "Chaand Baaliyan",
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734be3b1a83cd1a2edb28800fc"
+    },
+    {
+      "id": "70H9f0aXYMIKBe07RPOnsd",
+      "name": "Apna Time Aayega",
+      "artists": [
+        "DIVINE",
+        "Ranveer Singh",
+        "Dub Sharma"
+      ],
+      "album": "The Power Pack Mix - Shashwat Sachdev × Ranveer Singh",
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e42a9ab9f07022d8fe679c12"
+    },
+    {
+      "id": "0tgVpDi06FyKpA1z0VMD4v",
+      "name": "Perfect",
+      "artists": [
+        "Ed Sheeran"
+      ],
+      "album": "÷ (Deluxe)",
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ba5db46f4b838ef6027e6f96"
+    },
+    {
+      "id": "1JioaCninhpfY1filFEIZi",
+      "name": "STFU",
+      "artists": [
+        "AP Dhillon",
+        "Shinda Kahlon"
+      ],
+      "album": "OKAY STFU",
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b273123cdd6a61f9f07afb4eb11e"
+    },
+    {
+      "id": "2nnDPEbNxnBKq5RG6sObTg",
+      "name": "Naal Nachna",
+      "artists": [
+        "Shashwat Sachdev",
+        "Afsana Khan",
+        "Irshad Kamil",
+        "Reble"
+      ],
+      "album": "Dhurandhar",
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737838ccbef3fb712228e23fc5"
+    },
+    {
+      "id": "2pwED7E7gGr3UR7T3s3LSM",
+      "name": "Papaoutai - Afro Soul",
+      "artists": [
+        "mikeeysmind",
+        "Chill77",
+        "Unjaps"
+      ],
+      "album": "Papaoutai (Afro Soul)",
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b27390fa9bde9e533701feaf1dc6"
+    },
+    {
+      "id": "4nLZSSwHqgNFib0Ww91o1S",
+      "name": "Big Dawgs (feat. Kalmi)",
+      "artists": [
+        "Hanumankind",
+        "Kalmi"
+      ],
+      "album": "Monsoon Season",
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739999ac0a7052894fc20b4e5f"
+    },
+    {
+      "id": "0pqnGHJpmpxLKifKRmU6WP",
+      "name": "Believer",
+      "artists": [
+        "Imagine Dragons"
+      ],
+      "album": "Evolve",
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735675e83f707f1d7271e5cf8a"
+    },
+    {
+      "id": "1u8fCJz0quPl7Pnxbi49Q9",
+      "name": "Dhoola Maya",
+      "artists": [
+        "C Shor"
+      ],
+      "album": "Dhoola Maya",
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d7d470461d087e0838272027"
+    },
+    {
+      "id": "5SSZtFWdrmFV4MxtlRA13N",
+      "name": "Saiyaara",
+      "artists": [
+        "Tanishk Bagchi",
+        "Faheem Abdullah",
+        "Arslan Nizami",
+        "Irshad Kamil"
+      ],
+      "album": "Saiyaara",
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732fc1f0e56f80b5e7cc388b3c"
+    },
+    {
+      "id": "0HsDFeWMvnM9rEyvB23RYF",
+      "name": "Singari - From \"Dude (Telugu)\"",
+      "artists": [
+        "Sai Abhyankkar",
+        "Ramajogayya Sastry"
+      ],
+      "album": "Singari [From \"Dude (Telugu)\"]",
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b27376670ca9de7e2e810bd4c81f"
+    },
+    {
+      "id": "0gDwLf7vBAX7470lXfkYpp",
+      "name": "Life of Pazham",
+      "artists": [
+        "Anirudh Ravichander",
+        "Vivek"
+      ],
+      "album": "Thiruchitrambalam (Original Motion Picture Soundtrack)",
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737f144613f44e000e266f0dbd"
+    },
+    {
+      "id": "0y1QJc3SJVPKJ1OvFmFqe6",
+      "name": "Way down We Go",
+      "artists": [
+        "KALEO"
+      ],
+      "album": "A/B",
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f793a842c1642b09a768a63b"
+    },
+    {
+      "id": "2kW6AMK99mnEO6X01r2E3T",
+      "name": "Kadalalle (From \"Dear Comrade\")",
+      "artists": [
+        "Sid Sriram",
+        "Aishwarya Ravichandran",
+        "Justin Prabhakaran",
+        "Rehman"
+      ],
+      "album": "Kadalalle (From \"Dear Comrade\")",
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b27333f2d767c0a4b06454cb462f"
+    },
+    {
+      "id": "2m3QwNw6Xe4s8MfapdTbWo",
+      "name": "The One (From \"Retro\")",
+      "artists": [
+        "Sid Sriram",
+        "Santhosh Narayanan",
+        "SVDP",
+        "Vivek",
+        "The Indian Choral Ensemble"
+      ],
+      "album": "The One (From \"Retro\")",
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e7b5cf02c7a3df4a85957484"
+    },
+    {
+      "id": "2tjWCe2W7sgvS3C8NHcdtI",
+      "name": "Duniyaa (From \"Luka Chuppi\")",
+      "artists": [
+        "Akhil",
+        "Dhvani Bhanushali",
+        "Kunaal Vermaa",
+        "Abhijit Vaghani"
+      ],
+      "album": "Duniyaa (From \"Luka Chuppi\")",
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737b93fd8b0ade33ceb9d536de"
+    },
+    {
+      "id": "3SWqGa1J0M7hSBUDM0KePD",
+      "name": "Legend",
+      "artists": [
+        "The Score"
+      ],
+      "album": "ATLAS",
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c469e75608b59994c1c422be"
+    },
+    {
+      "id": "3ciFtjoNfG5q6gziTjKzTt",
+      "name": "Arjan Vailly",
+      "artists": [
+        "Manan Bhardwaj",
+        "Bhupinder Babbal"
+      ],
+      "album": "ANIMAL (Deluxe Edition Album)",
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b6c6d30aa80ec9e58c39333e"
+    },
+    {
+      "id": "4XA2TXEycTQL3xhPV7L2kt",
+      "name": "Savera",
+      "artists": [
+        "Iqlipse Nova",
+        "Anubha Bajaj"
+      ],
+      "album": "Savera",
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737b8021e7f03fbcb36b0e3bce"
+    },
+    {
+      "id": "4cjWVc72Lp9wkwm73AtXNf",
+      "name": "They Don't Care About Us",
+      "artists": [
+        "Beast In Black"
+      ],
+      "album": "Dark Connection",
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b273913a6d7587d853e1dd4c1580"
+    },
+    {
+      "id": "4ku6GUAcnQat6vfezhvfLV",
+      "name": "Marandhu Poche",
+      "artists": [
+        "Sean Roldan",
+        "Adithya RK",
+        "Madhan"
+      ],
+      "album": "With Love (Extended Version) [Original Motion Picture Soundtrack]",
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737cf59babb1dd0681b34fdc2d"
+    },
+    {
+      "id": "58f4twRnbZOOVUhMUpplJ4",
+      "name": "Brown Munde",
+      "artists": [
+        "AP Dhillon",
+        "Gminxr",
+        "Gurinder Gill",
+        "Shinda Kahlon"
+      ],
+      "album": "Brown Munde",
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b273026c84c9b0f78f0abe71301f"
+    },
+    {
+      "id": "5kwldaZvtbiTmRYsmlyxAN",
+      "name": "Paisa Hai Toh",
+      "artists": [
+        "Sachin-Jigar",
+        "Vishal Dadlani",
+        "Mellow D",
+        "Jigar Saraiya"
+      ],
+      "album": "Farzi (Original Series Soundtrack)",
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e27877f00204147353f0b7f4"
+    },
+    {
+      "id": "6CvW7N8JjBHmwEfGz2Yxhk",
+      "name": "Dheema (From \"Love Insurance Kompany\")",
+      "artists": [
+        "Anirudh Ravichander",
+        "Vignesh Shivan"
+      ],
+      "album": "Dheema (From \"Love Insurance Kompany\")",
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735d681dcaaff76d9de7fbe02f"
+    },
+    {
+      "id": "6xzQ1uSk2Rzz6Xdf8xBnWn",
+      "name": "City Slums (feat. DIVINE)",
+      "artists": [
+        "Raja Kumari",
+        "DIVINE"
+      ],
+      "album": "City Slums (feat. DIVINE)",
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737d3796b634a6b98af7a05d05"
+    },
+    {
+      "id": "7LfIX3DCzl3AtGJWlCKOKK",
+      "name": "Tum Hi Ho (From \"Aashiqui 2)",
+      "artists": [
+        "Arijit Singh"
+      ],
+      "album": "Love Dose Arijit Singh",
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732d2263486e48ab1b41ae2466"
+    },
+    {
+      "id": "7n4lGZKhwGvr6UELQUDx3O",
+      "name": "Besabriyaan (From \"M.S.Dhoni - The Untold Story\")",
+      "artists": [
+        "Armaan Malik"
+      ],
+      "album": "Armaan Malik - The Musical Archduke",
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735b64b60fed926172156419c8"
+    },
+    {
+      "id": "02BcXEH1zJYbXSabPtNlKf",
+      "name": "Lose My Mind (feat. Doja Cat) [From F1® The Movie]",
+      "artists": [
+        "Don Toliver",
+        "Doja Cat",
+        "F1 The Album"
+      ],
+      "album": "Lose My Mind (feat. Doja Cat) [From F1® The Movie]",
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d4c0243b55cdf7394323e710"
+    },
+    {
+      "id": "0MW1wdJlIjfAubzXjKqHUg",
+      "name": "Munbe Vaa",
+      "artists": [
+        "A.R. Rahman",
+        "Shreya Ghoshal",
+        "Naresh Iyer"
+      ],
+      "album": "Sillunu Oru Kaadhal (Original Motion Picture Soundtrack)",
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b27362368f697cd3b5e91c83ab1d"
+    },
+    {
+      "id": "0OLTYqD8FpjkLsxJmdWmgi",
+      "name": "Humsafar (From \"Saiyaara\")",
+      "artists": [
+        "Sachet-Parampara",
+        "Sachet Tandon",
+        "Parampara Tandon",
+        "Irshad Kamil",
+        "Prashant Pandey"
+      ],
+      "album": "Humsafar (From \"Saiyaara\")",
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b273dfc5ea836092ec71ca7a5dcb"
+    },
+    {
+      "id": "0VjIjW4GlUZAMYd2vXMi3b",
+      "name": "Blinding Lights",
+      "artists": [
+        "The Weeknd"
+      ],
+      "album": "After Hours",
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36"
+    },
+    {
+      "id": "0xlWd9o8yjKpJ02WJy79kZ",
+      "name": "Tere Liye",
+      "artists": [
+        "Atif Aslam",
+        "Shreya Ghoshal",
+        "Sachin Gupta",
+        "Sameer Anjaan"
+      ],
+      "album": "Best of Romance: Atif Aslam",
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b273af932ac943c7afa6b74659f7"
+    },
+    {
+      "id": "1CsuHmKOfCYxPoO4xjlAWV",
+      "name": "L’enfer",
+      "artists": [
+        "Stromae"
+      ],
+      "album": "Multitude",
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b27331d6b27ffaa0b2f89234698a"
+    },
+    {
+      "id": "1IkR0OgVI1gydC4S6jnG2B",
+      "name": "Bhaja Govindam",
+      "artists": [
+        "M. S. Subbulakshmi"
+      ],
+      "album": "Bhaja Govindam - Vishnu Sahasranamam",
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a324c170d526fb489fbad162"
+    },
+    {
+      "id": "1hQia6rxgfM1ly2hE3StWp",
+      "name": "Ishq Wala Love",
+      "artists": [
+        "Vishal-Shekhar",
+        "Shekhar Ravjiani",
+        "Salim Merchant",
+        "Neeti Mohan"
+      ],
+      "album": "Student of the Year (Original Motion Picture Soundtrack)",
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ad40f4e70b2f2a2a6052d49d"
+    },
+    {
+      "id": "29m79w9xPMH4YCD6r8JSmV",
+      "name": "Excuses",
+      "artists": [
+        "AP Dhillon",
+        "Gurinder Gill",
+        "Intense"
+      ],
+      "album": "Excuses",
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735b74e703d6ffb2ea16860c86"
+    },
+    {
+      "id": "2RkZ5LkEzeHGRsmDqKwmaJ",
+      "name": "Ordinary",
+      "artists": [
+        "Alex Warren"
+      ],
+      "album": "You'll Be Alright, Kid (Chapter 1)",
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738d18d73bbfc8985d52865edf"
+    },
+    {
+      "id": "2Uyj6K6mSaFTZsPvov415i",
+      "name": "KALYANI",
+      "artists": [
+        "ARJN",
+        "KDS",
+        "FIFTY4",
+        "RONN"
+      ],
+      "album": "KALYANI",
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738c681e9dd49d13f7d223f8bf"
+    },
+    {
+      "id": "2W0rC9WPKkyqa6pRvlUv3k",
+      "name": "Varaha Roopam",
+      "artists": [
+        "B. Ajaneesh Loknath",
+        "Shasiraj Kavoor",
+        "Sai Vignesh"
+      ],
+      "album": "Kantara A Legend Chapter 1 - Tamil (Original Motion Picture Soundtrack)",
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b27388e25734d039647c8641f3fe"
+    },
+    {
+      "id": "2YiCMmONQcoMPX2bV1LxE0",
+      "name": "Everybody Wants To Rule The World",
+      "artists": [
+        "Tears For Fears"
+      ],
+      "album": "Songs From The Big Chair",
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735e12c35cb4c848a927ef4b69"
+    }
+  ],
+  "recentlyPlayed": [
+    {
+      "trackId": "5IA1BVN8OKwpCxkgeOR8YM",
+      "name": "God Mode",
+      "artists": [
+        "Sai Abhyankkar",
+        "Gana Muthu",
+        "Vishnu Edavan"
+      ],
+      "playedAt": "2026-07-04T08:54:51.031Z"
+    },
+    {
+      "trackId": "2kbxGCtWSV0f1ON720Bd4O",
+      "name": "Don'u Don'u Don'u - The Don's Romance",
+      "artists": [
+        "Anirudh Ravichander",
+        "Alisha Thomas",
+        "Dhanush"
+      ],
+      "playedAt": "2026-07-04T08:54:23.049Z"
+    },
+    {
+      "trackId": "2kbxGCtWSV0f1ON720Bd4O",
+      "name": "Don'u Don'u Don'u - The Don's Romance",
+      "artists": [
+        "Anirudh Ravichander",
+        "Alisha Thomas",
+        "Dhanush"
+      ],
+      "playedAt": "2026-07-02T21:09:06.254Z"
+    },
+    {
+      "trackId": "13Ovp6ZSQpV6z2CfdWoP4S",
+      "name": "Kannae Kanmaniye",
+      "artists": [
+        "A.R. Rahman",
+        "Mashook Rahman"
+      ],
+      "playedAt": "2026-07-02T21:06:01.283Z"
+    },
+    {
+      "trackId": "0uExLQym0YauTNhuLJGcps",
+      "name": "The Wild Theme (From \"OM Chapter 1: Udhiram - The Blood Wood\")",
+      "artists": [
+        "Sai Abhyankkar",
+        "Dhanush"
+      ],
+      "playedAt": "2026-07-02T21:00:23.151Z"
+    },
+    {
+      "trackId": "5GWsajZGR8H7iOj8ufhLFB",
+      "name": "Kaadhal En Kaviye (From \"Salmon 3D - Tamil\")",
+      "artists": [
+        "Sid Sriram",
+        "Sreejith Edavana",
+        "Navin Kannan"
+      ],
+      "playedAt": "2026-07-02T20:58:37.011Z"
+    },
+    {
+      "trackId": "5uoFuhKbCzo5cET3kn3pSv",
+      "name": "Pottala Muttaye - From \"Thalaivan Thalaivii\"",
+      "artists": [
+        "Santhosh Narayanan",
+        "Sublahshini",
+        "Vivek"
+      ],
+      "playedAt": "2026-07-02T20:53:55.579Z"
+    },
+    {
+      "trackId": "7fRIo7WyDxXn3r233GCcdL",
+      "name": "Jimikki Ponnu",
+      "artists": [
+        "Thaman S",
+        "Anirudh Ravichander",
+        "Jonita Gandhi"
+      ],
+      "playedAt": "2026-07-02T20:50:08.303Z"
+    },
+    {
+      "trackId": "6sAdmaffuMijDszeFrGF1H",
+      "name": "Enakenna Yaarum Illaye (From \"Aakko\")",
+      "artists": [
+        "Anirudh Ravichander",
+        "Vignesh Shivan"
+      ],
+      "playedAt": "2026-07-02T20:46:22.976Z"
+    },
+    {
+      "trackId": "5PRxqbrJNoJo3zIzT3gvf5",
+      "name": "En Kadhal Solla",
+      "artists": [
+        "Yuvan Shankar Raja",
+        "Tanvi Shah",
+        "Na.Muthukumar"
+      ],
+      "playedAt": "2026-07-02T20:42:00.786Z"
+    },
+    {
+      "trackId": "6FvIK8mlHhaqgg89WVHwwQ",
+      "name": "God Mode Begins",
+      "artists": [
+        "Sai Abhyankkar",
+        "Gana Muthu",
+        "Vishnu Edavan"
+      ],
+      "playedAt": "2026-07-02T20:37:05.878Z"
+    },
+    {
+      "trackId": "0n6NBNUZQmH1KGRt5J9Nkq",
+      "name": "Hey Minnale",
+      "artists": [
+        "G. V. Prakash",
+        "Haricharan",
+        "Shweta Mohan",
+        "Karthik Netha"
+      ],
+      "playedAt": "2026-07-02T20:36:08.940Z"
+    },
+    {
+      "trackId": "4H1FLy4H7nS9wy9gg9JeFQ",
+      "name": "Unakku Thaan - From \"Chithha\"",
+      "artists": [
+        "Santhosh Narayanan",
+        "Dhvani Kailas",
+        "Vivek"
+      ],
+      "playedAt": "2026-07-02T20:32:17.746Z"
+    },
+    {
+      "trackId": "3bTnREOf1CyY4Gz5jfHUiI",
+      "name": "Vazhithunaiye - From \"Dragon\"",
+      "artists": [
+        "Leon James",
+        "Sid Sriram",
+        "Sanjana Kalmanje"
+      ],
+      "playedAt": "2026-07-02T20:28:40.342Z"
+    },
+    {
+      "trackId": "4cVgfaHzVDu3srYfJEP0AN",
+      "name": "Raga of Revenge (From \"DC\")",
+      "artists": [
+        "Anirudh Ravichander"
+      ],
+      "playedAt": "2026-07-02T20:25:00.930Z"
+    },
+    {
+      "trackId": "2tMoOS9grHtn4upzb4LwMG",
+      "name": "Adiye - From \"Bachelor\"",
+      "artists": [
+        "Dhibu Ninan Thomas",
+        "Kapil Kapilan"
+      ],
+      "playedAt": "2026-07-02T20:22:48.766Z"
+    },
+    {
+      "trackId": "0MTdYgTZ25sLCO6kVnDoje",
+      "name": "Aasa Kooda - From \"Think Indie\"",
+      "artists": [
+        "Sai Abhyankkar",
+        "Sai Smriti"
+      ],
+      "playedAt": "2026-07-02T20:18:15.494Z"
+    },
+    {
+      "trackId": "0vua5LbAth2HzKqpbnVRZk",
+      "name": "Nee Singam Dhan",
+      "artists": [
+        "A.R. Rahman",
+        "Sid Sriram",
+        "Vivek"
+      ],
+      "playedAt": "2026-07-02T20:14:38.530Z"
+    },
+    {
+      "trackId": "4WrDC4KvSIXPKvLjGSzFoF",
+      "name": "Tum Tum (From \"Enemy - Tamil\")",
+      "artists": [
+        "Thaman S",
+        "Sri Vardhini",
+        "Aditi Bhavaraju",
+        "Satya Yamini",
+        "Roshini JKV",
+        "Tejaswini",
+        "Vivek"
+      ],
+      "playedAt": "2026-07-02T20:10:29.879Z"
+    },
+    {
+      "trackId": "4ku6GUAcnQat6vfezhvfLV",
+      "name": "Marandhu Poche",
+      "artists": [
+        "Sean Roldan",
+        "Adithya RK",
+        "Madhan"
+      ],
+      "playedAt": "2026-07-02T20:06:40.422Z"
+    },
+    {
+      "trackId": "6CvW7N8JjBHmwEfGz2Yxhk",
+      "name": "Dheema (From \"Love Insurance Kompany\")",
+      "artists": [
+        "Anirudh Ravichander",
+        "Vignesh Shivan"
+      ],
+      "playedAt": "2026-07-02T20:03:21.641Z"
+    },
+    {
+      "trackId": "2m3QwNw6Xe4s8MfapdTbWo",
+      "name": "The One (From \"Retro\")",
+      "artists": [
+        "Sid Sriram",
+        "Santhosh Narayanan",
+        "SVDP",
+        "Vivek",
+        "The Indian Choral Ensemble"
+      ],
+      "playedAt": "2026-07-02T19:59:25.531Z"
+    },
+    {
+      "trackId": "0HsDFeWMvnM9rEyvB23RYF",
+      "name": "Singari - From \"Dude (Telugu)\"",
+      "artists": [
+        "Sai Abhyankkar",
+        "Ramajogayya Sastry"
+      ],
+      "playedAt": "2026-07-02T19:55:25.228Z"
+    },
+    {
+      "trackId": "4yur1GSBfuS1VADyUYocqd",
+      "name": "Pavazha Malli - From \"Think Indie\"",
+      "artists": [
+        "Sai Abhyankkar",
+        "Shruti Haasan",
+        "Vivek"
+      ],
+      "playedAt": "2026-07-02T19:51:55.769Z"
+    }
+  ],
+  "savedTracks": [
+    {
+      "trackId": "5xKr4HfdnYLMDmAJZkOuBc",
+      "name": "Dhurandhar - Title Track",
+      "artists": [
+        "Shashwat Sachdev",
+        "Hanumankind",
+        "Jasmine Sandlas",
+        "Sudhir Yaduvanshi",
+        "Charanjit Ahuja",
+        "Muhammad Sadiq",
+        "Ranjit Kaur",
+        "Babu Singh Maan"
+      ],
+      "addedAt": "2026-02-02T03:59:41Z"
+    },
+    {
+      "trackId": "2Fv2injs4qAm8mJBGaxVKU",
+      "name": "Tujhe Kitna Chahne Lage (From \"Kabir Singh\")",
+      "artists": [
+        "Arijit Singh",
+        "Mithoon"
+      ],
+      "addedAt": "2025-06-08T04:34:10Z"
+    },
+    {
+      "trackId": "2wthG5BIYGo3UXPplvXscX",
+      "name": "Leja",
+      "artists": [
+        "Lost Stories",
+        "JAI DHIR"
+      ],
+      "addedAt": "2025-03-13T14:34:30Z"
+    },
+    {
+      "trackId": "0snQrp1VaY5Pj1YIHRJpRJ",
+      "name": "Chaand Baaliyan",
+      "artists": [
+        "Aditya A"
+      ],
+      "addedAt": "2025-02-28T09:39:58Z"
+    },
+    {
+      "trackId": "6Qwy6vtWIvmlthXpzPNQti",
+      "name": "აჭარული მელოდიები",
+      "artists": [
+        "Chub1na.Ge"
+      ],
+      "addedAt": "2024-11-25T18:05:38Z"
+    },
+    {
+      "trackId": "3pjUyVbFmM96tYhSaKJwTt",
+      "name": "Change",
+      "artists": [
+        "J. Cole"
+      ],
+      "addedAt": "2024-10-06T09:40:45Z"
+    },
+    {
+      "trackId": "6VObnIkLVruX4UVyxWhlqm",
+      "name": "Skyfall",
+      "artists": [
+        "Adele"
+      ],
+      "addedAt": "2024-09-28T09:42:58Z"
+    },
+    {
+      "trackId": "6KOxp5U2mX0winYAUsM0Na",
+      "name": "Range Rover Entry",
+      "artists": [
+        "Harshavardhan Rameshwar"
+      ],
+      "addedAt": "2024-09-27T03:57:42Z"
+    },
+    {
+      "trackId": "3Vb8KkT6Ub5fFGPYJCJyLh",
+      "name": "Rolex Theme - Background Score",
+      "artists": [
+        "Anirudh Ravichander"
+      ],
+      "addedAt": "2024-09-26T11:50:33Z"
+    },
+    {
+      "trackId": "1MqzIgGsHP4cNjPboevsfq",
+      "name": "Tourner Dans Le Vide",
+      "artists": [
+        "Indila"
+      ],
+      "addedAt": "2024-09-25T10:54:27Z"
+    },
+    {
+      "trackId": "6u7agfweIC5PDsQwzXpS7P",
+      "name": "Boss Memory Loss",
+      "artists": [
+        "Ravi Teja",
+        "Ali",
+        "Ranjith Govind",
+        "Rahul Nambiar",
+        "Navin Madhav"
+      ],
+      "addedAt": "2024-08-21T03:02:26Z"
+    },
+    {
+      "trackId": "4XxfOvudrnBRdlgzEaq1sd",
+      "name": "Born to Shine",
+      "artists": [
+        "Diljit Dosanjh"
+      ],
+      "addedAt": "2024-08-18T16:43:02Z"
+    },
+    {
+      "trackId": "3NdQpAhK5s42vu3do3KSBT",
+      "name": "Ticket Eh Konakunda",
+      "artists": [
+        "Ram Miriyala",
+        "Kasarla Shyam"
+      ],
+      "addedAt": "2024-08-12T08:44:24Z"
+    },
+    {
+      "trackId": "6q0AoEpAf4VG8eP7Km8uqu",
+      "name": "Heartu Lo Battery",
+      "artists": [
+        "Hemachandra Vedala",
+        "Mukesh"
+      ],
+      "addedAt": "2024-08-12T08:38:39Z"
+    },
+    {
+      "trackId": "37CoOXIsgF3NzbK1zHZetk",
+      "name": "Mona Lisa (Spider-Man: Across the Spider-Verse)",
+      "artists": [
+        "Dominic Fike"
+      ],
+      "addedAt": "2024-08-07T18:04:34Z"
+    },
+    {
+      "trackId": "5aUe6oUFfxRsG98IUpoo5o",
+      "name": "Konchem Konchem",
+      "artists": [
+        "M. M. Keeravaani",
+        "Vijay Prakash",
+        "Deepu",
+        "L. V. Revanth",
+        "Anantha Sriram"
+      ],
+      "addedAt": "2024-08-07T18:04:07Z"
+    },
+    {
+      "trackId": "5Vhm92XrsXw5SfFYnxxspt",
+      "name": "Athey Nanne",
+      "artists": [
+        "Harris Jayaraj",
+        "Karthik",
+        "VV Prassanna",
+        "Veturi"
+      ],
+      "addedAt": "2024-08-07T12:32:43Z"
+    },
+    {
+      "trackId": "2Lu03NYllO5uk4R9gvNZFJ",
+      "name": "Oh! Shanthi Shanthi",
+      "artists": [
+        "Harris Jayaraj",
+        "Krishh",
+        "S.P. Charan"
+      ],
+      "addedAt": "2024-08-07T12:32:41Z"
+    },
+    {
+      "trackId": "2bageubuN1HjNZwTNlyh0v",
+      "name": "Naaloney Pongaynu",
+      "artists": [
+        "Harris Jayaraj",
+        "VV Prassanna",
+        "Harish Raghavendra",
+        "Devan Ekambaram",
+        "Veturi"
+      ],
+      "addedAt": "2024-08-07T12:32:36Z"
+    },
+    {
+      "trackId": "5UIPA4TffGlnyDsaqVEc1v",
+      "name": "Yegasi Yegasi",
+      "artists": [
+        "Harris Jayaraj",
+        "Benny Dayal",
+        "Naresh Iyer",
+        "Chandran"
+      ],
+      "addedAt": "2024-08-07T12:32:29Z"
+    },
+    {
+      "trackId": "18TORL6yEYyzbOjCrS8Ipc",
+      "name": "Yedhane Koiyakae",
+      "artists": [
+        "Harris Jayaraj",
+        "Krishh",
+        "Benny Dayal",
+        "Bhargavi Pillai"
+      ],
+      "addedAt": "2024-08-07T12:32:27Z"
+    },
+    {
+      "trackId": "67SwuqIlgYKKRy8OKisce6",
+      "name": "Adhento Gaani Vunnapaatuga(Jersey)",
+      "artists": [
+        "Anirudh Ravichander"
+      ],
+      "addedAt": "2024-08-07T12:32:17Z"
+    },
+    {
+      "trackId": "3Chq3BCsBaK3VHX7yPtAC4",
+      "name": "Urike Urike",
+      "artists": [
+        "MM Sreelekha",
+        "Sid Sriram",
+        "Ramya Behara"
+      ],
+      "addedAt": "2024-08-07T12:32:12Z"
+    },
+    {
+      "trackId": "61fXT6uwJ2THPkbmxa65OI",
+      "name": "Arerey Manasa (From \"Falaknuma Das\")",
+      "artists": [
+        "Vivek Sagar",
+        "Sid Sriram",
+        "Kittu Vissapragada"
+      ],
+      "addedAt": "2024-08-07T12:32:09Z"
+    },
+    {
+      "trackId": "6z15tFRtCyiSorSGaKLJeu",
+      "name": "Vellipomaake",
+      "artists": [
+        "Sid Sriram",
+        "ADK"
+      ],
+      "addedAt": "2024-08-07T12:32:07Z"
+    },
+    {
+      "trackId": "3iH9aAJw4Fi5Hdfwi0obL5",
+      "name": "Hamsaro",
+      "artists": [
+        "A.R. Rahman",
+        "Arjun Chandy",
+        "Haricharan",
+        "Jonita Gandhi"
+      ],
+      "addedAt": "2024-08-07T12:23:22Z"
+    },
+    {
+      "trackId": "3WqTLAB7u84IHk91AQZXHa",
+      "name": "New York Nagarama",
+      "artists": [
+        "A.R. Rahman"
+      ],
+      "addedAt": "2024-08-07T12:23:20Z"
+    },
+    {
+      "trackId": "0kNe3kmRFq7eKVlL15h7nb",
+      "name": "Anuvanuvuu",
+      "artists": [
+        "Sunny M.R.",
+        "Arijit Singh",
+        "Krishna Kanth"
+      ],
+      "addedAt": "2024-08-07T12:23:18Z"
+    },
+    {
+      "trackId": "2vlR5QFDv26aIctbUDK6jj",
+      "name": "Aga Naga (From \"Ponniyin Selvan Part-2\")",
+      "artists": [
+        "A.R. Rahman",
+        "Shakthisree Gopalan",
+        "Ilango Krishnan"
+      ],
+      "addedAt": "2024-08-07T06:17:26Z"
+    },
+    {
+      "trackId": "7fyiYhn7STpHvT5g0lbncC",
+      "name": "Ik Vaari Aa",
+      "artists": [
+        "Pritam",
+        "Arijit Singh",
+        "Amitabh Bhattacharya"
+      ],
+      "addedAt": "2024-08-07T05:53:49Z"
+    },
+    {
+      "trackId": "1VvGJIAjhGdB7InVP9NA7V",
+      "name": "Haareya",
+      "artists": [
+        "Sachin-Jigar",
+        "Arijit Singh",
+        "Priya Saraiya"
+      ],
+      "addedAt": "2024-08-07T05:53:40Z"
+    },
+    {
+      "trackId": "3bmsaFp11I9pbicxzlStf3",
+      "name": "nadaaniyan",
+      "artists": [
+        "Akshath"
+      ],
+      "addedAt": "2024-08-07T05:52:43Z"
+    },
+    {
+      "trackId": "1VxCdnd46iCgHP5zXGCXPe",
+      "name": "Nira - From \"Takkar\"",
+      "artists": [
+        "Sid Sriram",
+        "Gautham Vasudev Menon",
+        "Malvi Sundaresan",
+        "Nivas K Prasanna"
+      ],
+      "addedAt": "2024-07-29T08:36:28Z"
+    },
+    {
+      "trackId": "1zzejMGRYKP5XOa3FmzXfa",
+      "name": "Katchi Sera - From \"Think Indie\"",
+      "artists": [
+        "Sai Abhyankkar"
+      ],
+      "addedAt": "2024-07-29T08:30:51Z"
+    },
+    {
+      "trackId": "0MTdYgTZ25sLCO6kVnDoje",
+      "name": "Aasa Kooda - From \"Think Indie\"",
+      "artists": [
+        "Sai Abhyankkar",
+        "Sai Smriti"
+      ],
+      "addedAt": "2024-07-29T08:30:45Z"
+    },
+    {
+      "trackId": "2vue0Mq8ja04T20cavIVsb",
+      "name": "STAND PROUD",
+      "artists": [
+        "Tsuneo Imahori"
+      ],
+      "addedAt": "2024-07-26T14:34:03Z"
+    },
+    {
+      "trackId": "6b2WJDzGt5X8dYfpkWtvXW",
+      "name": "Fear Song (From \"Devara Part 1\") [Telugu]",
+      "artists": [
+        "Anirudh Ravichander",
+        "Ramajogayya Sastry"
+      ],
+      "addedAt": "2024-07-25T08:09:39Z"
+    },
+    {
+      "trackId": "67juMfLTouyZSxsjcpkB4B",
+      "name": "Heart of a Hero",
+      "artists": [
+        "Club Danger"
+      ],
+      "addedAt": "2024-03-20T09:12:10Z"
+    },
+    {
+      "trackId": "030D3duTUTfJORIycOhZNr",
+      "name": "For the Glory",
+      "artists": [
+        "All Good Things"
+      ],
+      "addedAt": "2024-01-01T09:13:57Z"
+    }
+  ]
+}

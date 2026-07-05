@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap");
+
+body {
+  background-color: #121212;
+  color: #ffffff;
+}
+
+@keyframes now-playing-progress {
+  from {
+    width: 0%;
+  }
+  to {
+    width: 100%;
+  }
+}

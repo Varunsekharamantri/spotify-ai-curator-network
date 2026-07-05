@@ -1,0 +1,23 @@
+# deps
+node_modules
+
+# next
+.next
+out
+
+# env
+.env
+.env*.local
+.spotify-token-cache.json
+
+# misc
+.DS_Store
+*.pem
+npm-debug.log*
+
+# vercel
+.vercel
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts

@@ -1,0 +1,54 @@
+{
+  "entries": [
+    {
+      "curatorId": "6jyIEc6gUd2yFJOlFMc9Nb",
+      "action": "not_my_taste",
+      "at": "2026-07-04T22:59:55.544Z"
+    },
+    {
+      "curatorId": "7yTlloxfujsToyI5yOYqTb",
+      "action": "not_my_taste",
+      "at": "2026-07-04T22:59:56.644Z"
+    },
+    {
+      "curatorId": "0PMKjSoU937cvzkHpFJ3hf",
+      "action": "not_my_taste",
+      "at": "2026-07-04T22:59:58.087Z"
+    },
+    {
+      "curatorId": "3VwENabqmIlGIRXQltdYcG",
+      "action": "not_my_taste",
+      "at": "2026-07-04T23:00:00.235Z"
+    },
+    {
+      "curatorId": "1qixLT6tbAbzR3oZkEklhO",
+      "action": "not_my_taste",
+      "at": "2026-07-04T23:00:03.824Z"
+    },
+    {
+      "curatorId": "5jYQ4O9Ii3tQcSbJMtVrk8",
+      "action": "not_my_taste",
+      "at": "2026-07-04T23:00:04.764Z"
+    },
+    {
+      "curatorId": "6ESPf8CVmQyYF4UnVAU6nO",
+      "action": "not_my_taste",
+      "at": "2026-07-04T23:00:06.000Z"
+    },
+    {
+      "curatorId": "4Jb4PDWREzNnbZcOHPcZPy",
+      "action": "not_my_taste",
+      "at": "2026-07-04T23:00:06.945Z"
+    },
+    {
+      "curatorId": "0ehZ6BvZyvB1kHmUJkWqI6",
+      "action": "followed",
+      "at": "2026-07-05T11:30:37.719Z"
+    },
+    {
+      "curatorId": "0ehZ6BvZyvB1kHmUJkWqI6",
+      "action": "followed",
+      "at": "2026-07-05T11:30:45.604Z"
+    }
+  ]
+}
