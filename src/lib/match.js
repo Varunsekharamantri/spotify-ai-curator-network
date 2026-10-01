@@ -4,12 +4,14 @@ const { githubModelsJSON } = require("./githubModels");
 // Live ranking runs through a provider chain, tried in order until one returns.
 // Speed-first ordering: each entry is also a separate quota bucket, so draining
 // one doesn't take the feature down — the next still has budget.
-//   1. Groq 8B   — fastest (sub-second) and the largest Groq daily budget.
-//   2. Groq 70B  — richer prose; slower and first to hit its daily token cap.
+//   1. Groq small  — gpt-oss-20b: fastest and the largest Groq daily budget.
+//   2. Groq large  — gpt-oss-120b: richer prose; slower and first to hit its daily token cap.
 //   3. GitHub Models 70B — separate free quota (slowest infra; last-resort only).
+// Groq retired the Llama models used here on 2026-08-16; groqJSON also falls back
+// to any other live Groq chat model if these are ever retired too.
 const PROVIDER_CHAIN = [
-  { label: "groq-8b", call: (p) => groqJSON(p, { model: "llama-3.1-8b-instant", temperature: 0.7, retries: 0 }) },
-  { label: "groq-70b", call: (p) => groqJSON(p, { model: "llama-3.3-70b-versatile", temperature: 0.7, retries: 0 }) },
+  { label: "groq-small", call: (p) => groqJSON(p, { models: ["openai/gpt-oss-20b", "openai/gpt-oss-120b"], temperature: 0.7, retries: 0 }) },
+  { label: "groq-large", call: (p) => groqJSON(p, { models: ["openai/gpt-oss-120b", "openai/gpt-oss-20b"], temperature: 0.7, retries: 0 }) },
   { label: "github-70b", call: (p) => githubModelsJSON(p, { temperature: 0.7 }) },
 ];
 
